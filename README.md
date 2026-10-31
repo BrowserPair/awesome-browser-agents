@@ -16,6 +16,7 @@ Maintained by [BrowserPair](https://browserpair.com/). BrowserPair is included w
 
 | Project | What it offers | Why explore it |
 | --- | --- | --- |
+| [agent-qa](https://vostride.com) | Web and mobile testing through a CLI and local MCP server | Reuse memidex persistent memory and validated self-improvement with reviewable execution evidence |
 | [Browser Use](https://github.com/browser-use/browser-use) | Browser-agent libraries and tooling | Build model-driven browser workflows in your own agent stack |
 | [Stagehand](https://github.com/browserbase/stagehand) | SDK for browser interaction and extraction | Combine agent reasoning with programmatic browser workflows |
 | [Playwright MCP](https://github.com/microsoft/playwright-mcp) | Browser tools exposed through MCP | Give an MCP client structured browser interaction |
