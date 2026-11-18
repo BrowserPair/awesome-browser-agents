@@ -21,6 +21,7 @@ Maintained by [BrowserPair](https://browserpair.com/). BrowserPair is included w
 | [Playwright MCP](https://github.com/microsoft/playwright-mcp) | Browser tools exposed through MCP | Give an MCP client structured browser interaction |
 | [agent-browser](https://github.com/vercel-labs/agent-browser) | Browser automation CLI for AI agents | Explore command-line browser control in an agent harness |
 | [BrowserPair](https://github.com/BrowserPair/browserpair) — maintained by this organization | Connects a user's existing Chrome through MCP and REST | Standard asks before sensitive operations; Developer adds no mode confirmations; immutable task confirmations and Chrome access remain; application source is private |
+| [OnlyRead](https://github.com/onlyreadai/onlyread) | Read-only enforcement for AI browser agents | Give an agent read access to signed-in pages while writes (send, post, edit, delete) are refused on guarded sites at the network layer |
 
 These projects can support different local, remote or existing-session configurations. Consult their current documentation; do not infer supported modes from the category alone.
 
